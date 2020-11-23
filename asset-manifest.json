@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fire-tracker/static/css/main.be116a36.chunk.css",
+    "main.js": "/fire-tracker/static/js/main.686f4857.chunk.js",
+    "main.js.map": "/fire-tracker/static/js/main.686f4857.chunk.js.map",
+    "runtime-main.js": "/fire-tracker/static/js/runtime-main.a25370e9.js",
+    "runtime-main.js.map": "/fire-tracker/static/js/runtime-main.a25370e9.js.map",
+    "static/js/2.1dfef1fc.chunk.js": "/fire-tracker/static/js/2.1dfef1fc.chunk.js",
+    "static/js/2.1dfef1fc.chunk.js.map": "/fire-tracker/static/js/2.1dfef1fc.chunk.js.map",
+    "static/js/3.cb30bd2b.chunk.js": "/fire-tracker/static/js/3.cb30bd2b.chunk.js",
+    "static/js/3.cb30bd2b.chunk.js.map": "/fire-tracker/static/js/3.cb30bd2b.chunk.js.map",
+    "index.html": "/fire-tracker/index.html",
+    "static/css/main.be116a36.chunk.css.map": "/fire-tracker/static/css/main.be116a36.chunk.css.map",
+    "static/js/2.1dfef1fc.chunk.js.LICENSE.txt": "/fire-tracker/static/js/2.1dfef1fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25370e9.js",
+    "static/js/2.1dfef1fc.chunk.js",
+    "static/css/main.be116a36.chunk.css",
+    "static/js/main.686f4857.chunk.js"
+  ]
+}
